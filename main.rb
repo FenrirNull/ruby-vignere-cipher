@@ -87,5 +87,5 @@ if options[:decode] == true
 end
 
 if key == "node28"
-  puts "test"
+  puts "lamp whiteboard picture"
 end
